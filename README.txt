@@ -1,0 +1,1 @@
+This application will enable the user to log in and track job leads, communications and statuses, as well as pending and next actions, to help them track that job lead!
